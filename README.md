@@ -73,7 +73,7 @@ DAX Measures
 
 Data Visualization
 
-📷 Dashboard Preview
+📷 Dashboard Preview  https://github.com/shree250512/FUTURE_DS_02/blob/main/social-media.jpg
 
 
 
