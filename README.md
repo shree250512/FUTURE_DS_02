@@ -100,3 +100,5 @@ Gender
 🎯 Conclusion
 
 This dashboard gives a clear understanding of how social media campaigns perform across various demographics and platforms. It can help marketing teams optimize budget allocation and improve campaign strategies.
+
+dataset : https://github.com/shree250512/FUTURE_DS_02/blob/main/Social_Media_Advertising.csv%20(1).zip
